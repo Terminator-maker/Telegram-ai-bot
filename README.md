@@ -17,5 +17,13 @@ A feature-rich Telegram bot powered by **Google Gemini AI (Gemini 3.6 Flash)** w
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Terminator-maker/Telegram-ai-bot.git](https://github.com/Terminator-maker/Telegram-ai-bot.git)
+   cd Telegram-ai-bot
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the bot:
+
+Bash
+python bot.py
