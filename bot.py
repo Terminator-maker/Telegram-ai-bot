@@ -15,9 +15,9 @@ from telegram.error import NetworkError # handle network errors
 import google.generativeai as genai # Google Gemini AI SDK , allows python script to send text
 # to google servers and recieve the ai's generated response
 
-TOKEN = '8478396855:AAHJobpmUzklDd5PyczxBD5YEFGoLnz4-mM'
+TOKEN = ''
 BOT_USERNAME = '@Terminator_b_bot'
-GOOGLE_API_KEY = 'AIzaSyCw7U1yo_sdcaqHklcxbstQmFv-Tm2EE44'
+GOOGLE_API_KEY = ''
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FOOTER_FILE = os.path.join(BASE_DIR, 'footer.txt')
